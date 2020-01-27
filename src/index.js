@@ -7,5 +7,5 @@ import AddSusbscriber from './AddSubscriber';
 import './common/common.css';
 
 
-ReactDOM.render(<AddSusbscriber/>, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.unregister();
